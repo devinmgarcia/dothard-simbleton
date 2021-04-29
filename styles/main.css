@@ -1,0 +1,7 @@
+.lists {
+    display: flex;
+}
+
+.list {
+    margin: 2rem;
+}
